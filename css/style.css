@@ -18,7 +18,7 @@ h2{
 .item{
     background: #787878;    
     text-align: center;
-    height: 340px !important;
+    height: 400px !important;
 }
 .carousel{
 
@@ -28,7 +28,7 @@ h2{
 }
 
 .carousel-inner img{
-	width: 220px;
+	width: 300px;
 
 	position: relative;
 	margin: auto;
@@ -62,7 +62,7 @@ h2{
 	}
 
 #last_slide img{
-	width: 100px;
+	width: 150px;
 	position: relative;
 	display: inline-block;
 	margin: auto;
