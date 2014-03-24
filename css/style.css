@@ -1,0 +1,51 @@
+.bs-example{
+		margin: 4%;
+
+
+	}
+
+#myTab{
+	font-size: 1.2em;
+}
+
+h2{
+    margin: 0;     
+    color: #404040  ;
+    padding-top: 30px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #787878;    
+    text-align: center;
+    height: 340px !important;
+}
+.carousel{
+
+    margin-top: 30px;
+    
+
+}
+
+.carousel-inner img{
+	width: 220px;
+	-moz-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
+    -webkit-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
+    box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
+	position: relative;
+	margin: auto;
+	margin-top: 15px;
+}
+
+.carousel-inner{
+	text-align: center;
+	
+}
+
+#myCarousel
+{
+	width: 70%;
+	margin: auto;
+	margin-top: 30px;
+	min-width: 500px;
+}
