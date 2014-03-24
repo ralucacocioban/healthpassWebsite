@@ -52,21 +52,28 @@ include "header.php";
 
 <div id="healthpass" class="tab-pane fade">
     <h3>HealthPassport</h3>
-    <p>HealthPassport is an application specially developed for people woth learning disabilities and dementia.</p>
-    <p>Project report in the form of a UCL website due Wednesday 30th April. It should have at minimum,
-Front page with product features
-SDK/collaboration opportunities for further development
-video of final product
-requirements background
-development plan, iterations and forks in prototypes
-architectural diagrams
-technical achievements, implementation details, use of design patterns
-management of the project including work packages completed between the team members
-referenced materials cited and examples/trials made
-testing and evaluation of the product solution
-system manual and user manual
-community forum
-</p>
+    <p>Introduction here</p>
+    <p>Project report in the form of a UCL website due <b>Wednesday 30th April</b>. It should have at minimum:</p>
+<ul>
+<li>Front page with product features : <b>Raluca</b></li>
+<li>SDK/collaboration opportunities for further development</li>
+<li>video of final product <b>Raluca&Martin end of April</b></li>
+<li>requirements background : <b>Raluca</b> </li>
+<li>development plan, iterations and forks in prototypes <b>Raluca</b></li>
+<li style="color:red">architectural diagrams</li>
+<li>technical achievements, implementation details, use of design patterns <b>Nicola</b></li>
+<li>management of the project including work packages completed between the team members <b>Raluca&Martin&Nicola</b></li>
+<li>referenced materials cited and examples/trials made <b>Martin</b> </li>
+<li>testing and evaluation of the product solution <b>Nicola</b></li>
+<li>system manual and user manual : <b>Martin</b> </li>
+<li style="color:red">community forum</li>
+<li style="color:red">3 tables with Heuristic Evaluation</li>
+<li>Heuristic: A typed summary of the findings, a list of recommendations that were implemented, and justification for recommendations that were not implemented : <b> Raluca</b></li>
+<li style="color:red">“Addressing User Needs” website section : A paragraph on user research conducted, A paragraph on user needs identified, A paragraph on user testing conducted (not just the heuristic evaluation!), 
+    A paragraph on the iterative design process undertaken  : <b>Martin</b></li>
+
+</ul>
+
 </div>
 <div id="forum" class="tab-pane fade">
 
