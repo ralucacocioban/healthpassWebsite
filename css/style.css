@@ -11,8 +11,8 @@
 h2{
     margin: 0;     
     color: #404040  ;
-    padding-top: 30px;
-    font-size: 52px;
+    padding-top: 20px;
+    font-size: 45px;
     font-family: "trebuchet ms", sans-serif;    
 }
 .item{
@@ -29,12 +29,13 @@ h2{
 
 .carousel-inner img{
 	width: 220px;
-	-moz-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
-    -webkit-box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
-    box-shadow:inset 0px 0px 3px 1px rgba(0,0,0,1);
+
 	position: relative;
 	margin: auto;
 	margin-top: 15px;
+	-moz-box-shadow: 6px 6px 8px rgba(0,0,0,.5);
+	-webkit-box-shadow: 6px 6px 8px rgba(0,0,0,.5);
+	box-shadow: 6px 6px 6px rgba(0,0,0,.5);
 }
 
 .carousel-inner{
@@ -59,3 +60,32 @@ h2{
 	text-align: left;
 
 	}
+
+#last_slide img{
+	width: 100px;
+	position: relative;
+	display: inline-block;
+	margin: auto;
+	margin-left: 24px;
+	
+
+}	
+
+hr{
+	width: 60%;
+}
+#last_slide ul{
+
+	display: inline-block;
+	text-align: center;
+	list-style: none;
+	position: relative;
+	top: 25px;
+
+}
+
+#last_slide li{
+	
+	margin: 10px;
+	
+}

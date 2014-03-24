@@ -15,25 +15,41 @@ include "header.php";
         <div class="carousel-inner">
             <div class="active item">
                 <h2>Health Passport</h2>
+                <hr>
                 <img src="img/image003.jpg"> 
                 <div class="carousel-caption">
-                    <h3>NHS and UCL project</h3>
-
-
+                <h5>NHS and UCL</h5>
                 </div>
             </div>
             <div class="item">
                 <h2>About HealthPassport</h2>
+                <hr>
                 <div class="carousel-caption">
-                  <h3>something here</h3>
-                  <p>Helping People with Learning Disabilities</p>
+                  <h3>“system of software and hardware developed for patients with dementia and learning disabilities"</h3>
+                    <p> - make technology more accessible -</p>
+                    <p> - support them in daily activities -</p>
+                   <p>- make health data more available without carrying physical documents-</p>
               </div>
           </div>
-          <div class="item">
-            <h2></h2>
+          <div class="item" id="last_slide">
+            <h2>HealthPass App</h2>
+            <hr>
+            <ul>
+                <li>healthcare data</li>
+                <li>allergies</li>
+                <li>taking pictures</li>
+            </ul>
+            <img src="img/image004.png">
+            <ul>
+                <li>reminder system</li>
+                <li>contacts</li>
+                <li>emotions expression</li>
+               
+            </ul>
+             
             <div class="carousel-caption">
-              <h3>Bring Inovation to their world</h3>
-              <p>healthcare data, allergies, reminder system, emotions expression</p>
+              
+              
           </div>
       </div>
   </div>
