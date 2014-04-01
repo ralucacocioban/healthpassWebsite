@@ -3,7 +3,6 @@ include "header.php";
 ?>    
 <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
-
       <div id="myCarousel" class="carousel slide" data-interval="4000" data-ride="carousel">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
